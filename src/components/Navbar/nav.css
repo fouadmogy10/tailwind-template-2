@@ -1,0 +1,12 @@
+ul{
+    transition: all .5s ease-in-out;
+}
+.show{
+    transform: translate(-270px, 40px);
+    opacity: 1;
+}
+.hide{
+    transform: translate(-270px, -300px);
+    visibility: hidden;
+    opacity: 0;
+}

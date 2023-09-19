@@ -1,0 +1,9 @@
+.overlay{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.797),rgba(0, 0, 0, 0.797));
+}
+.main-text{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
